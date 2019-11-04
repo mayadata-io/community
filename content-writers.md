@@ -13,7 +13,7 @@ This is a great opportunity for individuals to share their stories and findings 
 # How does it work?
 
 * Pick up an [existing issue](https://github.com/mayadata-io/community/issues) or create a new one.
-* Asses the content with one of our MCW Liasons for orginality and format in which the content will be published. Once accepted, it will enter into the [Technical Content Backlog](https://github.com/orgs/mayadata-io/projects/1). The issue will be used to track the progress towards publication. 
+* Asses the content with one of our MCW Liaisons for originality and format in which the content will be published. Once accepted, it will enter into the [Technical Content Backlog](https://github.com/orgs/mayadata-io/projects/1). The issue will be used to track the progress towards publication. 
 * Draft the content in a google word document and update the issue.
 * Review for Technical Accuracy
 * Polish the content through editorial reviews
@@ -27,7 +27,7 @@ We are offering a minimum of $50 for every new article published via the MCW pro
 
 We need you to create content based on your experience. If you have figured out something amazing to do with OpenEBS, Litmus or OpenEBS and if there's no content on that among MayaData resources, we would love to publish your tutorial or guide. We're also interested in publishing stories relevant to our open source community or customers. If you experienced something or conducted an experiment and learned something useful from it, that might be a good fit for our blog too.
 
-Once you've decided what you want to write about, add a comment to the existing issue or new issue containing:
+Once you've decided what you want to write about, add a comment to an existing issue or new issue containing:
 * A writing sample (link to content on similar subjects that you published previously)
 * A brief description of your post. Think about why people would be interested in reading it
 
