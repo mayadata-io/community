@@ -4,6 +4,7 @@
 - GitHub: harshvkarn
 - Title: Software Engineer
 - Location: Global
+- Residence: Bangalore, India, Asia.
 - Topics: OpenEBS Director, Chaos Engineering, ARM, JavaScript, Unix/Linux
 
 ## Bio
